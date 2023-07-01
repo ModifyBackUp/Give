@@ -16,7 +16,7 @@
 "Cancellable": "true",
 "MessageID": "99",
 "ShowTime": "10",
-"Button": "پیوستن",
-"ButtonCancell": "بعدا",
+"Button": "پـیـوسـتـن",
+"ButtonCancell": "بـعـدا",
 "Show": "on"
 }
